@@ -89,7 +89,7 @@ An accessibility mode adjusts to plain language, defines terms, and writes so re
 
 ## Demo
 
-Demo video: 
+▶️ [Watch the demo on YouTube](https://youtu.be/DzI0Zg9VE00)
 
 ## Limitations & future work
 
